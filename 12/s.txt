@@ -1,0 +1,127 @@
+﻿sad [sxd] грустный
+safe [seif] безопасный
+safety ['seifti] безопасность
+said [sed] прош. вр. от say
+same [seim] тот же самый
+sand [sxnd] песок
+Saturday [sxtqdi] суббота
+saucer ['sPsq] блюдце
+save [seiv] спасать
+saw [sP] прош. вр. от see
+say [sei] сказать
+scarce [skFqs] редкий, скудный
+school [skul] школа
+scissors ['sizqz] ножницы
+sea [si] море
+seaside ['si'said] побережье
+season ['sizn] сезон
+seat [sit] сидеть
+second ['sek(q)nd] второй
+see [si] видеть
+seem [sim] казаться
+seen [sin] прич. прош. вp. от see
+sell [sel] продавать
+send [send] посылать
+sense [sens] смысл
+sensible ['sensqbl] разумный, здравомыслящий
+sentence ['sentqns] предложение
+September [sep'tembq] сентябрь
+servant ['sqv(q)nt] слуга
+seven ['seven] семь
+seventeen ['seven'tin] семнадцать
+seventh ['sevnT] седьмой
+seventy ['sevnti] семьдесят
+several ['sevr(q)l] несколько
+sew [squ] шить
+shade [Seid] тень, полумрак
+sharp [SQp] острый
+she [Si] она
+sheep [Sip] овца
+shelf [Self] полка
+shelves [Selvs] мн. ч. от shelf
+shilling ['SiliN] шиллинг
+shin [Sin] тонкий, стройный
+shine [Sain] светить
+ship [Sip] корабль
+shirt [Sqt] рубашка
+shoot [Sut] стрелять
+shop [SOp] магазин
+short [SPt] короткий
+show [Squ] показывать
+silence ['sailqns] тишина
+silver ['silvq] серебро
+simple ['simpl] простой
+since [sins] с тех пор как
+sing [siN] петь
+sir [sq] сэр
+sister ['sistq] сестра
+six [siks] шесть
+sixteen ['siks'tin] шестнадцать
+sixth [siksT] шестой
+sixty ['siksti] шестьдесят
+size [saiz] размер
+skin [skin] кожа
+skirt [skqt] юбка
+sky [skai] небо
+sleep [slip] спать
+slept [slqpt] прош. вр. от sleep
+slow [slqu] медленный
+slowly [slOuli] медленно
+small [smPl] маленький
+smell [smel] запах
+smile [smail] улыбаться; улыбка
+smoke [smquk] курить
+snow [snqu] снег
+so [squ] так, таким образом
+soap [squp] мыло
+soft [sOft] мягкий
+some [sAm] несколько; какой-то
+somebody, someone ['sAmbqdi] кто-то
+something ['sAmTiN] что-то
+sometimes ['sAmtaimz] иногда
+somewhere ['sAmwFq] где-то
+son [sAn] сын
+song [sON] песня
+soon [sun] скоро
+sorrow ['sOrqu] печаль
+sorry ['sOri] огорченный
+sound [saund] звучать; звук
+soup [sup] суп
+south [sauT] юг
+spade [speid] лопата
+speak [spik] говорить
+spell [spel] называть по буквам
+spirit ['spirit] дух
+spoke [spquk] прош. вр. от speak
+spoken ['spquk(q)n] прич. прош. вр. от speak
+spoon [spun] ложка
+spring [spriN] весна
+stand [stxnd] стоять
+star [stQ] звезда
+station ['steiS(q)n] станция
+stay [stei] оставаться, гостить
+step [step] шаг
+stick [stik] палка
+still [stil] все еще
+stood [stud] прош. вр. от stand
+stop [stOp] останавливаться
+story ['stPri] рассказ, история
+street [strit] улица
+strength [streNT] сила
+striped [straip] полосатый
+strong [strON] сильный
+student ['stjud(q)nt] студент
+study ['stAdi] учиться
+style [stail] стиль
+such [sAC] такой
+suddenly ['sAdnli] вдруг
+sugar ['Sugq] сахар
+suit [sjut] костюм
+summer ['sAmq] лето
+sun [sAn] солнце
+Sunday ['sAndi] воскресенье
+supper ['sApq] ужин
+suppose [sq'pquz] предполагать
+sure [Suq] уверенный
+surprise [sq'praiz] удивлять
+swim [swim] плавать

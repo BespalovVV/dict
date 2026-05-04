@@ -1,0 +1,79 @@
+﻿baby ['beibi] младенец
+back [bxk] назад
+bacon ['beik(q)n] бекон
+bad [bxd] плохой
+bag [bxg] сумка
+ball [bPl] мяч
+band [bxnd] лента
+bank [bxNk] банк
+basket ['bQskit] корзина
+bath [bQT] ванна
+bathe [beiD] купаться
+bathing ['beiDiN] купание
+bathroom [bQTrum] ванная
+be [bi] быть
+beach [biC] пляж
+beard [biqd] борода
+beat [bit] бить
+beautiful ['bjutqful] красивый
+beauty ['bjuti] красота
+because [bi'kOz] потому что
+become [bi'kAm] становиться
+bed [bed] кровать
+bedroom ['bedru(:)m] спальня
+beef [bif] говядина
+beer [biq] пиво
+before [bi'fP] перед
+began [bi'gAn] прош. вр. от begin
+begin [bi'gin] начинать
+beginning [bi'giniN] начало
+behave [bi'heiv] вести себя
+behind [bi'haind] позади
+believe [bi'liv] верить
+bell [bel] звонок
+below [bi'lqu] внизу
+best [best] лучший
+better ['betq] лучше
+between [bi'twin] между
+bicycle ['baisikl] велосипед
+big [big] большой
+bill [bil] счет
+bird [bqd] птица
+birthday ['bqTdei] день рождения
+bite [bait] кусать
+black [blxk] черный
+blind [blaind] слепой
+blow [blqu] удар
+blue [blu] голубой
+boat [bqut] лодка
+body ['bOdi] тело
+boil [bOil] кипятить
+bone [bqun] кость
+book [buk] книга
+both [bquT] оба
+bottle ['bOtl] бутылка
+bought [bquD] прош. вр. от buy
+box [bOks] ящик
+boxer ['bOksq] боксер
+boy [bOi] мальчик
+bread [bred] хлеб
+break [breik] ломать
+breakfast ['brekfqst] завтрак
+breathe [briD] дышать
+bridge [briG] мост
+bright [brait] яркий
+bring [briN] приносить
+brother ['brADq] брат
+brought [brquD] прош. вр. от bring
+brown [braun] коричневый
+bucket ['bAkit] ведро
+build [bild] строить
+building ['bildiN] здание
+bull [bul] бык
+burn [bqn] жечь
+bus [bAs] автобус
+busy ['bizi] занятой
+but [bAt] но
+butter ['bAtq] масло
+buy [bai] покупать
+by [bai] около, мимо

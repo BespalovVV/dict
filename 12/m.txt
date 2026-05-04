@@ -1,0 +1,55 @@
+﻿machine [mqSin] машина
+madam ['mxdqm] мадам
+made [meid] прош. вр. от make
+magazine [,mxgq'zin] журнал
+mail [meil] почта
+make [meik] делать
+male [meil] мужской
+man [mxn] человек, мужчина
+manage ['mxniG] руководить, управлять
+manly ['mxnli] мужественный
+many ['meni] много, очень
+March [mQC] март
+marmalade ['mQmqleid] мармелад
+marry ['mxri] жениться
+material [mq'tiqriql] материал
+matter ['mxtq] иметь значение
+May [mai] май
+me [mi] меня, мне
+mean [min] значить
+meaning ['miniN] значение
+meat [mit] мясо
+meet [mit] встречаться
+men [men] мн. ч. от man
+met [met] прош. вр. от meet
+middle ['midl] середина
+midnight ['midnait] полночь
+mile [mail] миля
+million ['miljqn] миллион
+minute ['minit] минута
+mirror ['mirq] зеркало
+Miss [mis] мисс
+miss [mis] пропускать; скучать
+missing ['misiN] недостающий
+mistake [mis'teik] ошибка
+modern ['mOd(q)n] современный
+Monday ['mAndi] понедельник
+money ['mAni] деньги
+month [mAnT] месяц
+moon [mun] луна
+more [mP] больше
+morning ['mPniN] утро
+most [mqust] наиболее, самый
+mother ['mADq] мать
+mountain ['mauntin] гора
+mouse [maus] мышь
+move [muv] двигаться
+Mr. ['mistq] мистер
+Mrs. ['mistris] миссис
+much [mAC] много, многочисленные
+museum [mju(:)'ziqm] музей
+music ['mjuzik] музыка
+musical ['mjuzik(q)l] музыкальный
+must [mAst] должен
+mutton ['mAtn] баранина
+my [mai] мой

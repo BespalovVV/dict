@@ -1,0 +1,64 @@
+﻿wait [weit] ждать
+waiter ['weitq] официант
+walk [wPk] ходить пешком
+wall [wPl] стена
+want [wOnt] хотеть
+warm [wPm] теплый
+was [wOz] прош. вр. от be (ед. ч.)
+wash [wOS] мыть
+watch [wOC] наручные часы
+water ['wOtq] вода
+way [wei] путь; способ
+we [wi] мы
+weak [wik] слабый
+weakness ['wiknis] слабость
+wealthy ['welTi] состоятельный
+wear [wFq] носить; надевать
+weather ['weDq] погода
+wedding ['wediN] свадьба
+Wednesday ['wenzdi] среда
+week [wik] неделя
+weight [weit] вес
+welcome ['welkqm] добро пожаловать
+well [wel] хорошо
+went [went] прош. вр. от go
+were [wFq] прош. вр. от be (мн. ч.)
+west [west] запад
+wet [wet] мокрый
+what [wOt] что
+when [wen] когда
+where [wFq] где
+which [wiC] который
+white [wait] белый
+who [hu] кто
+whole [hqul] весь
+why [wai] почему
+wife [waif] жена
+win [win] побеждать
+wind [wind] ветер
+window [windqu] окно
+wine [wain] вино
+winter ['wintq] зима
+wise [waiz] мудрый
+wish [wiS] желать
+with [wiD] с
+without [wi'Daut] без
+wives [waiv] мн. ч. от wife
+wolf [wulf] волк
+woman ['wumqn] женщина
+women ['wumqn] мн. ч. от woman
+wonder ['wAndq] удивляться
+wonderful ['wAndqful] удивительный
+wood [wud] дерево; лес
+word [wqd] слово
+wore [wP] прош. вр. от wear (носить)
+work [wqk] работать
+world [wqld] мир
+worry ['wAri] беспокоиться
+worse wqs[] хуже
+worst [wqst] худший
+wound [wund] рана
+wrist [rist] запястье
+write [rait] писать
+wrong [rON] неправильный, неправый
+wrote [rout] прош. вр. от write

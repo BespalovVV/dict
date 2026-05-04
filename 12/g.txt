@@ -1,0 +1,32 @@
+﻿game [geim] игра
+garden ['gQdn] сад
+gate [geit] ворота
+gave [geiv] прош. вр. от give
+gay [gei] веселый
+generally ['Gen(q)rqli] как правило; в целом
+gentle ['Gentl] нежный
+gentleman ['Gentlmqn] джентльмен
+get [get] получать
+girl [gql] девочка, девушка
+give [giv] давать
+glad [glxd] радостный
+glass [glQs] стекло; стакан
+glasses ['glQsiz] очки
+glory ['glPri] слава
+gloves [glAv] перчатки
+go [gqu] идти
+gold [gquld] золото
+golden ['gquld(q)n] золотистый
+gone [gOn] прич. прош. вр. от go
+good [gud] хороший
+goodbye [gudbai] до свидания
+got [gOt] прош. вр. от get
+grandfather ['grxnd,fQDq] дедушка
+grandmother ['grxnd,mADq] бабушка
+grass [grQs] трава
+great [greit] великий
+green [grin] зеленый
+greeting ['gritiN] приветствие
+grey [grei] серый
+grow [grqu] расти
+guest [gest] гость

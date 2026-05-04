@@ -1,0 +1,74 @@
+﻿face [feis] лицо
+fact [fxkt] факт
+failure ['feiljq] неудача
+fair [fFq] справедливый; светлый
+fall [fPl] семья
+familiar [fq'miljq] знакомый
+famous ['feimqs] известный
+far [fQ] далеко
+farm [fQm] ферма
+fast [fQst] быстрый
+fat [fxt] жирный
+father ['fQDq] отец
+fault [fPlt] ошибка; вина
+fear [fiq] страх
+February ['februqri] февраль
+fed [fqd] прош. вр. от feed
+feed [fid] кормить
+feel [fil] чувствовать
+feet [fit] мн. ч. от foot
+fellow ['felqu] парень
+felt [felt] прош. вр. от feel
+female ['fimeil] женский
+few [fju] мало
+field [fild] поле
+fifteen ['fif'tin] пятнадцать
+fifth [fifT] пятый
+fifty ['fifti] пятьдесят
+fight [fait] драться, сражаться
+figure ['figq] фигура; цифра
+finally ['fainqli] наконец
+find [faind] находить
+fine [fain] прекрасный
+finger ['fiNgq] палец
+finish ['finiS] заканчивать
+fire ['faiq] огонь
+first [fqst] первый
+first-class [fqst-klQs] первоклассный
+fish [fiS] рыба
+five [faiv] пять
+floor [flP] пол
+flower ['flauq] цветок
+fly [flai] летать
+fog [fOg] туман
+follow ['fOlqu] следовать (за)
+fond [fOnd] любящий
+food [fud] еда
+fool [ful] дурак
+foot [fut] ступня
+football ['futbPl] футбол
+for [fP] для
+foreign ['fOrin] иностранный
+forget [fq'get] забывать
+forgotten [fq'gOtn] 
+fork [fPk] вилка
+form [fPm] форма
+fortnight ['fPtnait] две недели
+forty ['fPti] сорок
+found [faund] прош. вр. от find
+four [fP] четыре
+fourteen ['fP'tin] четырнадцать
+fourth [fPT] четвертый
+free [fri] свободный
+freedom ['fridqm] свобода
+fresh [freS] свежий
+Friday ['fraidi] пятница
+friend [frend] друг
+friendly ['frendli] дружеский
+from [frOm] из
+front [frAnt] передний
+fruit [frut] фрукт
+full [ful] полный
+fun [fAn] удовольствие
+funny ['fAni] забавный
+further ['fqDq] дальше

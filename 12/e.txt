@@ -1,0 +1,43 @@
+﻿each [iC] каждый
+ear [iq] ухо
+early ['qli] рано
+earth [qT] земля
+east [ist] восток
+easy ['izi] легкий, простой
+eat [it] есть
+eaten [itn] прич. прош. вр. от eat
+egg [eg] яйцо
+eight [eit] восемь
+eighteen ['ei'tin] восемнадцать
+eighty ['eiti] восемьдесят
+elephant ['elifqnt] слон
+eleven [i'levn] одиннадцать
+else [els] еще
+empty ['empti] пустой
+end [end] конец
+enemy ['enimi] враг
+engine ['enGin] мотор
+enjoy [in'GOi] наслаждаться
+enough [i'nAf] достаточно
+enter ['entq] входить
+envelope ['envqlqup] конверт
+especially [is'peS(q)li] особенно
+even ['iv(q)n] даже
+evening ['ivniN] вечер
+ever ['evq] когда-либо
+every ['evri] всякий, любой
+everybody ['evribOdi] каждый, всякий
+everyday ['evridei] каждый день
+everything ['evriTiN] всё
+everywhere ['evriwFq] всюду
+exactly [ig'zxktli] точно
+example [ig'zQmpl] пример
+except [ik'sept] за исключением
+exciting [ik'saitiN] волнующий
+excuse [iks'kjus] извинять
+exercise ['eksqsaiz] упражнение
+expect [iks'pekt] ожидать
+expensive [iks'pensiv] дорогой (о цене)
+explain [iks'plein] объяснять
+express [iks'prqs] выражать
+eye [ai] глаз

@@ -1,0 +1,9 @@
+﻿year [jq] год
+yellow ['jelqu] желтый
+yes [jes] да
+yesterday ['jestqdi] вчера
+yet [jet] до сих пор;еще
+you [ju] вы; ты
+young [jAN] молодой
+your [jP] ваш; твой
+youth [juT] молодость; юность
