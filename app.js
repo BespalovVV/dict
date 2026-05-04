@@ -127,11 +127,10 @@ function renderResults(matches) {
     resultsContainer.innerHTML = '';
     
     const fragment = document.createDocumentFragment();
-    
+    let length = input.value.length;
     matches.forEach(item => {
         const card = document.createElement('div');
         card.className = 'word-card';
-        let length = input.value.lenth;
         card.innerHTML = `
             <div class="word-header">
                 <span class="word-title"><span class="powershine">${input.value}</span>${item.word.slice(length)}</span>
