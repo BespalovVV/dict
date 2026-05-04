@@ -54,6 +54,7 @@ async function handleInput(e) {
     }
 
     performSearch(query);
+	lastQuery = query;
 }
 
 /**
