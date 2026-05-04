@@ -54,7 +54,7 @@ async function handleInput(e) {
     }
 
     performSearch(query);
-	lastQuery = query;
+	state.lastQuery = query;
 }
 
 /**
@@ -134,7 +134,7 @@ function renderResults(matches) {
         
         card.innerHTML = `
             <div class="word-header">
-                <span class="word-title"><span class="powershine">${lastQuery}</span>${item.word.slice(length(lastQuery))}</span>
+                <span class="word-title"><span class="powershine">${state.lastQuery}</span>${item.word.slice(length(state.lastQuery))}</span>
                 <span class="transcription">[${item.transcription}]</span>
             </div>
             <div class="translation">${item.translation}</div>
