@@ -133,7 +133,7 @@ function renderResults(matches) {
         
         card.innerHTML = `
             <div class="word-header">
-                <span class="word-title"><div class="powershine">${trimmedLine} 1</div>${item.word.slice(length(trimmedLine))}</span>
+                <span class="word-title"><span class="powershine">${trimmedLine}</span>${item.word.slice(length(trimmedLine))}</span>
                 <span class="transcription">[${item.transcription}]</span>
             </div>
             <div class="translation">${item.translation}</div>
