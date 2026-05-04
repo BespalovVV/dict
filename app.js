@@ -131,10 +131,10 @@ function renderResults(matches) {
     matches.forEach(item => {
         const card = document.createElement('div');
         card.className = 'word-card';
-        
+        let length = input.value.lenth;
         card.innerHTML = `
             <div class="word-header">
-                <span class="word-title"><span class="powershine">${input.value}</span>${item.word.slice(input.value.lenth)}</span>
+                <span class="word-title"><span class="powershine">${input.value}</span>${item.word.slice(length)}</span>
                 <span class="transcription">[${item.transcription}]</span>
             </div>
             <div class="translation">${item.translation}</div>
