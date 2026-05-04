@@ -26,6 +26,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+.powershine{
+	text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f;
+}
 
 /* Background Blobs */
 .background-blobs {
